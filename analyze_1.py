@@ -1,3 +1,5 @@
+#data can be found here: https://www.kaggle.com/datamunge/sign-language-mnist
+
 from numpy import loadtxt
 import numpy as np
 import pandas as pd
